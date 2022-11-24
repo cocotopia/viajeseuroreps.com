@@ -12,6 +12,12 @@ p {
   font-family: "Poppins", sans-serif;
 }
 
+.block-logos{
+  background: white;
+  padding: 20px 0px;
+  margin-bottom: 50px;
+}
+
 .layout_margin {
   margin-top: 90px;
   margin-bottom: 90px;
@@ -70,8 +76,8 @@ p {
 }
 
 .sub_page .header_section {
-  background: -webkit-gradient(linear, left top, right top, from(#0856dd), to(#3d3e94));
-  background: linear-gradient(to right, #0856dd, #3d3e94);
+  background: -webkit-gradient(linear, left top, right top, from(#002aa9), to(#1bd8fe));
+  background: linear-gradient(to right, #002aa9, #1bd8fe);
 }
 
 .sub_page .client_section {
