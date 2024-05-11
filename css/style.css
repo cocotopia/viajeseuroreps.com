@@ -278,6 +278,7 @@ a:focus {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  margin-right: 50px;
 }
 
 .navbar-brand img {
